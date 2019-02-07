@@ -1,0 +1,19 @@
+C:\Users\romyi\OneDrive\Desktop\Programs\3.Hello, World! (With Menu)\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.csprojAssemblyReference.cache
+C:\Users\romyi\OneDrive\Desktop\Programs\3.Hello, World! (With Menu)\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.frmHelloWorldWithMenu.resources
+C:\Users\romyi\OneDrive\Desktop\Programs\3.Hello, World! (With Menu)\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.Properties.Resources.resources
+C:\Users\romyi\OneDrive\Desktop\Programs\3.Hello, World! (With Menu)\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.csproj.GenerateResource.cache
+C:\Users\romyi\OneDrive\Desktop\Programs\3.Hello, World! (With Menu)\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.csproj.CoreCompileInputs.cache
+C:\Users\romyi\OneDrive\Desktop\Programs\3.Hello, World! (With Menu)\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\bin\Debug\HelloWorldWithMenuRomyCIII.exe.config
+C:\Users\romyi\OneDrive\Desktop\Programs\3.Hello, World! (With Menu)\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\bin\Debug\HelloWorldWithMenuRomyCIII.exe
+C:\Users\romyi\OneDrive\Desktop\Programs\3.Hello, World! (With Menu)\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\bin\Debug\HelloWorldWithMenuRomyCIII.pdb
+C:\Users\romyi\OneDrive\Desktop\Programs\3.Hello, World! (With Menu)\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.exe
+C:\Users\romyi\OneDrive\Desktop\Programs\3.Hello, World! (With Menu)\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\3.HelloWorldMenuRomyCIII\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\bin\Debug\HelloWorldWithMenuRomyCIII.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\3.HelloWorldMenuRomyCIII\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\bin\Debug\HelloWorldWithMenuRomyCIII.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\3.HelloWorldMenuRomyCIII\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\bin\Debug\HelloWorldWithMenuRomyCIII.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\3.HelloWorldMenuRomyCIII\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\3.HelloWorldMenuRomyCIII\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.frmHelloWorldWithMenu.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\3.HelloWorldMenuRomyCIII\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\3.HelloWorldMenuRomyCIII\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\3.HelloWorldMenuRomyCIII\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\3.HelloWorldMenuRomyCIII\HelloWorldWithMenuRomyCIII\HelloWorldWithMenuRomyCIII\obj\Debug\HelloWorldWithMenuRomyCIII.pdb

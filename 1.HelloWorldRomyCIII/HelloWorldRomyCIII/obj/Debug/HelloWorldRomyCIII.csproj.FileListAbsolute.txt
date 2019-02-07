@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\HelloWorldRomyCIII\HelloWorldRomyCIII\bin\Debug\HelloWorldRomyCIII.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\HelloWorldRomyCIII\HelloWorldRomyCIII\bin\Debug\HelloWorldRomyCIII.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\HelloWorldRomyCIII\HelloWorldRomyCIII\bin\Debug\HelloWorldRomyCIII.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\HelloWorldRomyCIII\HelloWorldRomyCIII\obj\Debug\HelloWorldRomyCIII.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\HelloWorldRomyCIII\HelloWorldRomyCIII\obj\Debug\HelloWorldRomyCIII.frmHelloWorld.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\HelloWorldRomyCIII\HelloWorldRomyCIII\obj\Debug\HelloWorldRomyCIII.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\HelloWorldRomyCIII\HelloWorldRomyCIII\obj\Debug\HelloWorldRomyCIII.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\HelloWorldRomyCIII\HelloWorldRomyCIII\obj\Debug\HelloWorldRomyCIII.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Chu III, Romy (s243855)\Introduction\HelloWorldRomyCIII\HelloWorldRomyCIII\obj\Debug\HelloWorldRomyCIII.pdb

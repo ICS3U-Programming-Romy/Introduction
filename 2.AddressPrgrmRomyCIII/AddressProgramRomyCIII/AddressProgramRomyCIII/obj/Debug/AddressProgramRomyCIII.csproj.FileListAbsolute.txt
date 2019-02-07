@@ -1,0 +1,10 @@
+C:\Users\romyi\OneDrive\Desktop\Programs\2.Address Program\AddressProgramRomyCIII\AddressProgramRomyCIII\bin\Debug\AddressProgramRomyCIII.exe.config
+C:\Users\romyi\OneDrive\Desktop\Programs\2.Address Program\AddressProgramRomyCIII\AddressProgramRomyCIII\bin\Debug\AddressProgramRomyCIII.exe
+C:\Users\romyi\OneDrive\Desktop\Programs\2.Address Program\AddressProgramRomyCIII\AddressProgramRomyCIII\bin\Debug\AddressProgramRomyCIII.pdb
+C:\Users\romyi\OneDrive\Desktop\Programs\2.Address Program\AddressProgramRomyCIII\AddressProgramRomyCIII\obj\Debug\AddressProgramRomyCIII.csprojAssemblyReference.cache
+C:\Users\romyi\OneDrive\Desktop\Programs\2.Address Program\AddressProgramRomyCIII\AddressProgramRomyCIII\obj\Debug\AddressProgramRomyCIII.frmAddressProgram.resources
+C:\Users\romyi\OneDrive\Desktop\Programs\2.Address Program\AddressProgramRomyCIII\AddressProgramRomyCIII\obj\Debug\AddressProgramRomyCIII.Properties.Resources.resources
+C:\Users\romyi\OneDrive\Desktop\Programs\2.Address Program\AddressProgramRomyCIII\AddressProgramRomyCIII\obj\Debug\AddressProgramRomyCIII.csproj.GenerateResource.cache
+C:\Users\romyi\OneDrive\Desktop\Programs\2.Address Program\AddressProgramRomyCIII\AddressProgramRomyCIII\obj\Debug\AddressProgramRomyCIII.csproj.CoreCompileInputs.cache
+C:\Users\romyi\OneDrive\Desktop\Programs\2.Address Program\AddressProgramRomyCIII\AddressProgramRomyCIII\obj\Debug\AddressProgramRomyCIII.exe
+C:\Users\romyi\OneDrive\Desktop\Programs\2.Address Program\AddressProgramRomyCIII\AddressProgramRomyCIII\obj\Debug\AddressProgramRomyCIII.pdb
