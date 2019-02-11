@@ -28,114 +28,118 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.lbl = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.lblRectangle = new System.Windows.Forms.Label();
+            this.lblSphere = new System.Windows.Forms.Label();
+            this.lblAnswer3 = new System.Windows.Forms.Label();
+            this.lblAnswer1 = new System.Windows.Forms.Label();
+            this.btnPerimeter = new System.Windows.Forms.Button();
+            this.btnArea = new System.Windows.Forms.Button();
+            this.btnVolume = new System.Windows.Forms.Button();
+            this.lblAnswer2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // lbl
+            // lblRectangle
             // 
-            this.lbl.AutoSize = true;
-            this.lbl.Location = new System.Drawing.Point(37, 34);
-            this.lbl.Name = "lbl";
-            this.lbl.Size = new System.Drawing.Size(417, 13);
-            this.lbl.TabIndex = 0;
-            this.lbl.Text = "What is the area and perimeter of a rectangle with a length of 5cm and a width of" +
-    " 3cm?";
+            this.lblRectangle.AutoSize = true;
+            this.lblRectangle.Location = new System.Drawing.Point(22, 17);
+            this.lblRectangle.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.lblRectangle.Name = "lblRectangle";
+            this.lblRectangle.Size = new System.Drawing.Size(238, 96);
+            this.lblRectangle.TabIndex = 0;
+            this.lblRectangle.Text = "What is the area and \r\nperimeter of a \r\nrectangle with a length\r\nof 8cm and a wid" +
+    "th of 5cm?";
             // 
-            // label2
+            // lblSphere
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(37, 107);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 13);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "label2";
+            this.lblSphere.AutoSize = true;
+            this.lblSphere.Location = new System.Drawing.Point(15, 183);
+            this.lblSphere.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.lblSphere.Name = "lblSphere";
+            this.lblSphere.Size = new System.Drawing.Size(223, 48);
+            this.lblSphere.TabIndex = 1;
+            this.lblSphere.Text = "What is the volume of a \r\nsphere with a radius of 8?";
             // 
-            // label3
+            // lblAnswer3
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(37, 180);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(35, 13);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "label3";
+            this.lblAnswer3.AutoSize = true;
+            this.lblAnswer3.Location = new System.Drawing.Point(442, 192);
+            this.lblAnswer3.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.lblAnswer3.Name = "lblAnswer3";
+            this.lblAnswer3.Size = new System.Drawing.Size(100, 24);
+            this.lblAnswer3.TabIndex = 4;
+            this.lblAnswer3.Text = "?????????";
             // 
-            // label4
+            // lblAnswer1
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(202, 180);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(35, 13);
-            this.label4.TabIndex = 5;
-            this.label4.Text = "label4";
+            this.lblAnswer1.AutoSize = true;
+            this.lblAnswer1.Location = new System.Drawing.Point(460, 27);
+            this.lblAnswer1.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.lblAnswer1.Name = "lblAnswer1";
+            this.lblAnswer1.Size = new System.Drawing.Size(100, 24);
+            this.lblAnswer1.TabIndex = 3;
+            this.lblAnswer1.Text = "?????????";
             // 
-            // label5
+            // btnPerimeter
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(202, 107);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(35, 13);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "label5";
+            this.btnPerimeter.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPerimeter.Location = new System.Drawing.Point(283, 15);
+            this.btnPerimeter.Margin = new System.Windows.Forms.Padding(6);
+            this.btnPerimeter.Name = "btnPerimeter";
+            this.btnPerimeter.Size = new System.Drawing.Size(138, 50);
+            this.btnPerimeter.TabIndex = 6;
+            this.btnPerimeter.Text = "Calculate \r\n(Perimeter)";
+            this.btnPerimeter.UseVisualStyleBackColor = true;
+            this.btnPerimeter.Click += new System.EventHandler(this.btnPerimeter_Click);
             // 
-            // label6
+            // btnArea
             // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(202, 34);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(35, 13);
-            this.label6.TabIndex = 3;
-            this.label6.Text = "label6";
+            this.btnArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnArea.Location = new System.Drawing.Point(283, 71);
+            this.btnArea.Margin = new System.Windows.Forms.Padding(6);
+            this.btnArea.Name = "btnArea";
+            this.btnArea.Size = new System.Drawing.Size(138, 52);
+            this.btnArea.TabIndex = 7;
+            this.btnArea.Text = "Calculate\r\n(Area)";
+            this.btnArea.UseVisualStyleBackColor = true;
+            this.btnArea.Click += new System.EventHandler(this.btnArea_Click);
             // 
-            // button1
+            // btnVolume
             // 
-            this.button1.Location = new System.Drawing.Point(97, 29);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnVolume.Location = new System.Drawing.Point(283, 183);
+            this.btnVolume.Margin = new System.Windows.Forms.Padding(6);
+            this.btnVolume.Name = "btnVolume";
+            this.btnVolume.Size = new System.Drawing.Size(138, 42);
+            this.btnVolume.TabIndex = 8;
+            this.btnVolume.Text = "Calculate";
+            this.btnVolume.UseVisualStyleBackColor = true;
+            this.btnVolume.Click += new System.EventHandler(this.btnVolume_Click);
             // 
-            // button2
+            // lblAnswer2
             // 
-            this.button2.Location = new System.Drawing.Point(97, 102);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(97, 170);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 8;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
+            this.lblAnswer2.AutoSize = true;
+            this.lblAnswer2.Location = new System.Drawing.Point(460, 84);
+            this.lblAnswer2.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.lblAnswer2.Name = "lblAnswer2";
+            this.lblAnswer2.Size = new System.Drawing.Size(100, 24);
+            this.lblAnswer2.TabIndex = 9;
+            this.lblAnswer2.Text = "?????????";
             // 
             // frmPerAreaVol
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gray;
-            this.ClientSize = new System.Drawing.Size(498, 224);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.lbl);
+            this.ClientSize = new System.Drawing.Size(636, 264);
+            this.Controls.Add(this.lblAnswer2);
+            this.Controls.Add(this.btnVolume);
+            this.Controls.Add(this.btnArea);
+            this.Controls.Add(this.btnPerimeter);
+            this.Controls.Add(this.lblAnswer3);
+            this.Controls.Add(this.lblAnswer1);
+            this.Controls.Add(this.lblSphere);
+            this.Controls.Add(this.lblRectangle);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "frmPerAreaVol";
             this.Text = "Perimeter, Area, and Volume Calculations Program By Romy I. Chu III";
             this.ResumeLayout(false);
@@ -145,15 +149,14 @@
 
         #endregion
 
-        private System.Windows.Forms.Label lbl;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Label lblRectangle;
+        private System.Windows.Forms.Label lblSphere;
+        private System.Windows.Forms.Label lblAnswer3;
+        private System.Windows.Forms.Label lblAnswer1;
+        private System.Windows.Forms.Button btnPerimeter;
+        private System.Windows.Forms.Button btnArea;
+        private System.Windows.Forms.Button btnVolume;
+        private System.Windows.Forms.Label lblAnswer2;
     }
 }
 
