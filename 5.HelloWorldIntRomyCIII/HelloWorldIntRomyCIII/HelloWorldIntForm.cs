@@ -25,36 +25,31 @@ namespace HelloWorldIntRomyCIII
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-          
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
+        //When this radio button is clicked, it changes the text in the label to english (Hello, World!)
         private void radEnglish_CheckedChanged(object sender, EventArgs e)
         {
             lblHelloWorldInt.Text = "Hello, World!";
         }
 
+        //When this radio button is clicked, it changes the text in the label to arabic (مرحبا بالعالم!)
         private void radArabic_CheckedChanged(object sender, EventArgs e)
         {
             lblHelloWorldInt.Text = "مرحبا بالعالم!";
         }
 
+        //When this radio button is clicked, it changes the text in the label to traditional chinese (你好，世界！)
         private void radChineseTrad_CheckedChanged(object sender, EventArgs e)
         {
             lblHelloWorldInt.Text = "你好，世界！";
         }
 
+        //When this radio button is clicked, it changes the text in the label to japanese (こんにちは世界！)
         private void radJapanese_CheckedChanged(object sender, EventArgs e)
         {
             lblHelloWorldInt.Text = "こんにちは世界！";
         }
 
+        //When this radio button is clicked, it changes the text in the label to tagalog (Kumusta, Mundo!)
         private void radTagalog_CheckedChanged(object sender, EventArgs e)
         {
             lblHelloWorldInt.Text = "Kumusta, Mundo!";

@@ -49,7 +49,6 @@
             this.lblHelloWorldInt.Size = new System.Drawing.Size(423, 63);
             this.lblHelloWorldInt.TabIndex = 0;
             this.lblHelloWorldInt.Text = "Hello, World!";
-            this.lblHelloWorldInt.Click += new System.EventHandler(this.label1_Click);
             // 
             // grbLanguages
             // 
@@ -64,7 +63,6 @@
             this.grbLanguages.TabIndex = 1;
             this.grbLanguages.TabStop = false;
             this.grbLanguages.Text = "Languages";
-            this.grbLanguages.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // radArabic
             // 
